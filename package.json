@@ -1,0 +1,10 @@
+{
+  "name": "rest-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
